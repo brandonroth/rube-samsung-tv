@@ -1,0 +1,9 @@
+{
+    "tv_ip": "<YOUR_TV_IP>",
+    "tv_mac": "<YOUR_TV_MAC>",
+    "tv_port": 8002,
+    "token_file": "tv_token.txt",
+    "boot_delay": 2,
+    "inputs": ["TV", "PC", "Apple TV", "HDMI4"],
+    "extra_items_right": 3
+}

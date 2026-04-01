@@ -1,0 +1,23 @@
+# Secrets / local config
+tv_token.txt
+config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# OS
+.DS_Store
+Thumbs.db
