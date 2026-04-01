@@ -21,8 +21,8 @@ uv is a fast Python package manager that handles Python installs and dependencie
 ### 2. Clone the repo
 
 ```bash
-git clone <repo-url>
-cd samsung-tv-control
+git clone https://github.com/brandonroth/rube-samsung-tv
+cd rube-samsung-tv
 ```
 
 ### 3. Configure
